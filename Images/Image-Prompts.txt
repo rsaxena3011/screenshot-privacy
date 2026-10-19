@@ -1,0 +1,20 @@
+Screenshot Privacy — artwork prompts
+Created with the built-in image generation tool.
+These are conceptual product illustrations, not captures of the app.
+
+Banner-Horizontal.png
+Use case: ads-marketing. Design a premium, clean editorial campaign for a free offline browser app called Screenshot Privacy. Cool off-white #F7F8FA background, dark ink #171D28 typography, slate #657084 details, pale lime #D8F3A3 accent. Crisp modern typography, generous breathing room, subtle paper depth. Main visual: a stylized screenshot sheet with abstract rows and solid opaque black rectangles covering private fields. The bars must be fully opaque, never blurred or translucent. This is conceptual artwork, not a real app screenshot. No real personal details, no logos from other brands, no security seals, no absolute privacy claims, no extra text. Spell the requested text exactly.
+Asset: horizontal 16:9 banner, landscape. Text left, screenshot sheet right, comfortable margins. Exact text: "Screenshot Privacy"; "Share the screenshot.\nKeep the private parts."; "FREE • OFFLINE • ONE HTML FILE".
+
+Banner-Vertical.png
+Use case: ads-marketing. Design a premium, clean editorial campaign for a free offline browser app called Screenshot Privacy. Cool off-white #F7F8FA background, dark ink #171D28 typography, slate #657084 details, pale lime #D8F3A3 accent. Crisp modern typography, generous breathing room, subtle paper depth. Main visual: a stylized screenshot sheet with abstract rows and solid opaque black rectangles covering private fields. The bars must be fully opaque, never blurred or translucent. This is conceptual artwork, not a real app screenshot. No real personal details, no logos from other brands, no security seals, no absolute privacy claims, no extra text. Spell the requested text exactly.
+Asset: vertical 9:16 promotional banner, portrait. Strong stacked typography at top, screenshot sheet in middle, small footer, generous margins. Exact text: "Screenshot Privacy"; "A little less\non display."; "Cover. Review. Export."; "FREE • OFFLINE".
+
+Banner-Square.png
+Use case: ads-marketing. Design a premium, clean editorial campaign for a free offline browser app called Screenshot Privacy. Cool off-white #F7F8FA background, dark ink #171D28 typography, slate #657084 details, pale lime #D8F3A3 accent. Crisp modern typography, generous breathing room, subtle paper depth. Main visual: a stylized screenshot sheet with abstract rows and solid opaque black rectangles covering private fields. The bars must be fully opaque, never blurred or translucent. This is conceptual artwork, not a real app screenshot. No real personal details, no logos from other brands, no security seals, no absolute privacy claims, no extra text. Spell the requested text exactly.
+Asset: square 1:1 promotional banner. Large clear title, bold headline, screenshot sheet underneath. Exact text: "Screenshot Privacy"; "Keep your details\nto yourself."; "FREE • OFFLINE • ONE HTML FILE".
+
+Product-Image.png
+Use case: ads-marketing. Design a premium, clean editorial campaign for a free offline browser app called Screenshot Privacy. Cool off-white #F7F8FA background, dark ink #171D28 typography, slate #657084 details, pale lime #D8F3A3 accent. Crisp modern typography, generous breathing room, subtle paper depth. Main visual: a stylized screenshot sheet with abstract rows and solid opaque black rectangles covering private fields. The bars must be fully opaque, never blurred or translucent. This is conceptual artwork, not a real app screenshot. No real personal details, no logos from other brands, no security seals, no absolute privacy claims, no extra text. Spell the requested text exactly.
+Asset: square 1:1 product information image. Clear hierarchy, screenshot sheet in upper right, concise three-step list beneath the headline. Exact text: "Screenshot Privacy"; "Share only what you choose."; "1. Open a screenshot"; "2. Cover private details"; "3. Review and export PNG"; "FREE • OFFLINE • MANUAL REDACTION".
+
